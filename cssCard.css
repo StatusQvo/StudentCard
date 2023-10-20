@@ -164,6 +164,10 @@ border-spacing: 0;
 color:#5b6064;
 }
 
+.cources-table tr:hover{
+color:#c21f5d;
+}
+
 .cources-table td{
 padding: 10px 10px 5px 10px;
 }
